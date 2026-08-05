@@ -11,4 +11,17 @@
 ![](https://streak-stats.demolab.com/?user=RockSamrat&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RockSamrat&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Certifications
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/927b28f3-54c1-46f0-8e1a-03d0438ce802/public_url">
+        <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="80"/><br/>
+        <b>AWS Academy Graduate</b><br/>
+        Cloud Foundations
+      </a>
+    </td>
+  </tr>
+</table>
