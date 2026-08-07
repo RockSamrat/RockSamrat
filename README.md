@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I'm Samrat 👋<br><br>Full-stack developer who builds fast by pairing hands-on engineering with agentic coding workflows — using AI-assisted tooling to ship, debug, and deploy production apps end-to-end, while still owning the architecture and code myself.
+### Hi, I'm Samrat 👋<br><br>Full-stack developer who builds fast by pairing hands-on engineering with agentic coding workflows, using AI-assisted tooling to ship, debug, and deploy production apps end-to-end, while still owning the architecture and code myself.
 
 
 ## 🌐 Socials:
